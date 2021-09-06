@@ -89,7 +89,6 @@
 				106424E626E5327900B972BC /* API */,
 				106424E526E5321B00B972BC /* Resources */,
 				106424E426E531E900B972BC /* ViewController */,
-				106424E326E531CB00B972BC /* Presenter */,
 				106424E126E531B700B972BC /* Model */,
 				106424E226E531C100B972BC /* View */,
 				106424DB26E52B1500B972BC /* Info.plist */,
@@ -112,13 +111,6 @@
 				106424D326E52B1400B972BC /* Main.storyboard */,
 			);
 			path = View;
-			sourceTree = "<group>";
-		};
-		106424E326E531CB00B972BC /* Presenter */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Presenter;
 			sourceTree = "<group>";
 		};
 		106424E426E531E900B972BC /* ViewController */ = {
